@@ -1,4 +1,4 @@
-# lojinha
+# Estante Virtual
 
 ## Project setup
 ```
